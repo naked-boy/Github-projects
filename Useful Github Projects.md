@@ -16,3 +16,6 @@ Here is a list of projects in Github which which is or will be useful.
 - pywebsocket. Forked from google/pywebsocket. WebSocket server and extension for Apache HTTP Server for testing.
 - glui. Forked from libglui/glui. It's a C++ graphic interface library for opengl. http://www.cs.unc.edu/~rademach/glui
 - Playgroud.
+- cybergarage/CyberX3D4CC https://github.com/cybergarage/CyberX3D4CC
+- X3D In/Out Toolkit https://github.com/Supporting/xiot
+
